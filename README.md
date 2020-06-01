@@ -4,7 +4,7 @@ Dieses Repository enthält alle Dateien und Anleitungen, den eMalRob-FG in versc
 
 
 ## Wichtige Informationen
-- Die in der Anleitung benutzte Virutelle Maschine, findet ihr auf der Gooogle Drive Cloud der Mechatronik Welt (unter "13-eMalRob\Cody++\VM\") (Stand: 31.05.2020)
+- Die in der Anleitung benutzte Virutelle Maschine, findet ihr auf der Google Drive Cloud der Mechatronik Welt (unter "13-eMalRob\Cody++\VM\") (Stand: 31.05.2020)
 - Die Arduino IDE Version 1.8.10 findet ihr hier: https://www.arduino.cc/en/Main/OldSoftwareReleases#previous
 - Die App-Inventor-Webseite findet ihr hier: https://appinventor.mit.edu
 
