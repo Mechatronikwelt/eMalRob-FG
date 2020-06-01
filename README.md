@@ -1,6 +1,7 @@
 # eMalRob-FG
 Dieses Repository enthält alle Dateien und Anleitungen, den eMalRob-FG in verschiedenen Szenarien zu bedienen.
-- Stand: 31.05.2020
+- Erstellt im Rahmen des HIT-Labors: Projekt eMalRobAustausch, Sommersemester 2020
+- Stand: 01.06.2020
 
 
 ## Wichtige Informationen
